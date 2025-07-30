@@ -117,13 +117,13 @@
  ### 4. Prepare `search_terms.csv`
  - Create a CSV file named `search_terms.csv` in the project directory.
  - Define calendars and search criteria (see [CSV File Format](#csv-file-format) for details).
- - Example:
+ - Example (or use the one in the repository):
    ```csv
    calendar,title,location,category,tags
-   all entertainment,science & technology,Bridgeport,Social Clubs,'social clubs'
+   Science,science & technology,Bridgeport,Social Clubs,'social clubs'
    Dance Events,,brownwood,Dance,'dance,swing'
    Dance Events,rumba,spanish springs,Dance,'dance,latin'
-   Fitness Events,combo swim,colony,Recreation,'recreation,indoor'
+   Fitness Events,combo swim,colony,Recreation,
    ```
 
  ### 5. Run the Script
