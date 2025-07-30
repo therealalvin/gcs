@@ -16,7 +16,7 @@
 
  ## Requirements
 
- - **Python 3.8+**
+ - **Python 3.11+**
  - **Docker** (recommended for containerized execution)
  - **Google Cloud Project** with the Google Calendar API enabled
  - **Dependencies** (listed in `requirements.txt`):
@@ -43,7 +43,7 @@
  Choose one of the following options to install the required Python dependencies:
 
  #### Option 1: Local Installation
- - Ensure Python 3.8 or higher is installed:
+ - Ensure Python 3.11 or higher is installed:
    ```bash
    python3 --version
    ```
