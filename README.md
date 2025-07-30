@@ -51,10 +51,13 @@
  - Create a `requirements.txt` file in the project directory with the following content:
    ```text
    requests
+   icalendar
+   datetime
    pytz
    google-auth
    google-auth-oauthlib
    google-api-python-client
+
    ```
  - Install dependencies:
    ```bash
