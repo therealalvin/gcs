@@ -273,4 +273,4 @@
 
  ## Contact
 
- For issues or questions, open a GitHub issue or contact [your-email@example.com](mailto:your-email@example.com).
+ For issues or questions, open a GitHub issue
