@@ -9,7 +9,6 @@
  - Groups events by calendar name into a single data structure for efficient synchronization.
  - Adds events to Google Calendars, preventing duplicates using `eventId`.
  - Preserves existing calendar events.
- - Deletes events no longer on the Villages Calendar for those 14 days
  - Handles local EDT times, combining `eventDate` for dates and `startTime`/`endTime` for times.
  - Runs in a Docker container with volume mappings for easy file updates.
  - Minimal logging for debugging (parsing details, no `synced_ids`).
